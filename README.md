@@ -1,6 +1,5 @@
-test_project
+Test Project
 ============
 
-
-CHange taht a little ...
+Change that a little ...
 
